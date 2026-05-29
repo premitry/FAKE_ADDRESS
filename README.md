@@ -16,7 +16,6 @@ Cloudflare Worker address generator with:
 ## Install
 
 ```cmd
-cd /d "C:\Users\Administrator\Downloads\address-generator-worker-faker-only-v3"
 npm install
 ```
 
