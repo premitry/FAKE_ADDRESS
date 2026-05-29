@@ -1,0 +1,17 @@
+{
+  "name": "cf-address-generator-telegram-web-faker-only-v3",
+  "version": "4.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0",
+    "world-countries": "^5.1.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.95.0"
+  }
+}
